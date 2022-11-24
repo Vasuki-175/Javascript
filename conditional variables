@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+<script>
+var a=3;
+if(a<10)
+  document.write(a + " is smaller than 50");
+else
+  document.write(a+ " is not greater than 10");
+</script>
+</head>
+<body>
+
+</body>
+</html>
